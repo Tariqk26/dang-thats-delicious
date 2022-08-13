@@ -1,7 +1,3 @@
-## What is this?
-
-Just you wait folks!
-
 ## Sample Data
 
 To load sample data, run the following command in your terminal:
@@ -25,3 +21,10 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 |Beau|beau@example.com|beau|
 
 
+## The Process
+
+## The Challenges
+
+## Tools
+
+## To Do
