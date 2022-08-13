@@ -5,7 +5,6 @@ const multer = require('multer');
 const jimp = require('jimp');
 const uuid = require('uuid');
 const { resize } = require('jimp');
-// const { restart } = require('nodemon');
 
 const multerOptions = {
     storage: multer.memoryStorage(),
